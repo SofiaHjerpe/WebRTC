@@ -4,7 +4,7 @@ I have been making a WebRTC website. On the WebRTC website the user estabishes a
 
 ## Installation
 1.  To clone the repo click at the code button and copy the link. 
-2.  Open the terminal by clicking on git bash. Git bash where you want to clone the code. In git bash terminal write the following git clone "paste your link"
+2.  Open the terminal by clicking on git bash. Git bash where you want to clone the code. In git bash terminal write the following git clone "paste link"
  
 ## Usage
 To use WebRTC open the link in two different tabs so that the peers can send sdp offer and sdp answer to eachother. 
