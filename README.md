@@ -1,4 +1,4 @@
-![BANNER](1.png)
+
 # A website with WebRTC
 I have been making a WebRTC website. On the WebRCT website the user estabishes a peer to peer connection between two browsers to exchange video data in real time. To try it out open the <a href="">url</a> in two different tabs. The peers will automaticly create an sdp offer, a sdp answer and ICE candidates. When the peers creates an sdp offer and an sdp answer and ICE candidates the video can show up on the other tab. When the video shows up on the other tab a real time connection is established.
 
@@ -15,8 +15,6 @@ To use WebRTC open the link in two different tabs so that the peers can send sdp
 
 In the code example above the Math.random() method is introduced to generate a floating point number between 0 and 10000. The Math.floor() method returns the largest intreger less than or equal to a given number. In the code example above I am also getting the Iceservers urls where the ICEcandidates come from.  In this case I use a server from Google. 
 
-## Contribution 
-Add relevant description 
 ## Licence 
-MIT Licence 
+This code includes a MIT Licence. 
 
