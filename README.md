@@ -1,6 +1,6 @@
 
 # A website with WebRTC
-I have been making a WebRTC website. On the WebRTC website the user estabishes a peer to peer connection between two browsers to exchange video data in real time. To try it out open the <a href="">url</a> in two different tabs. The peers will automaticly create an sdp offer, a sdp answer and ICE candidates. When the peers creates an sdp offer and an sdp answer and ICE candidates the video can show up on the other tab. When the video shows up on the other tab a real time connection is established.
+I have been making a WebRTC website. On the WebRTC website the user estabishes a peer to peer connection between two browsers to exchange video data in real time. To try it out open the <a href="https://sofiahjerpe.github.io/WebRTC/">url</a> in two different tabs. The peers will automaticly create an sdp offer, a sdp answer and ICE candidates. When the peers creates an sdp offer and an sdp answer and ICE candidates the video can show up on the other tab. When the video shows up on the other tab a real time connection is established.
 
 ## Installation
 1.  To clone the repo click at the code button and copy the link. 
