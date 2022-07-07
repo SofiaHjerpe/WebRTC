@@ -13,7 +13,7 @@ To use WebRTC open the link in two different tabs so that the peers can send sdp
 ![code-one](carbon.png)
 
 
-In the code example above the Math.random() method is introduced to generate a floating point number between 0 and 10000. The Math.floor() method returns the largest intreger less than or equal to a given number. In the code example above I am also getting the Iceservers urls where the ICEcandidates come from.  In this case I use a server from Google. 
+In the code example above the Math.random() method is introduced to generate a floating point number between 0 and 10000. The Math.floor() method returns the largest intreger less than or equal to a given number. The Math.random() and Math.floor() together creates a number to a room where a certain tab joins. The console should for example write out " A new peer joined room 690" with a different number every time. In the code example above I am also getting the Iceservers urls where the ICEcandidates come from.  In this case I use a server from Google. 
 
 ## Licence 
 This code includes a MIT Licence. 
